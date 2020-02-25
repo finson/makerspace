@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="cutter-r6-eps.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path12"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path15"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path17"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path19"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g241"
+       transform="matrix(0.26458333,0,0,0.26458333,22.160714,-250.80357)">
+      <g
+         id="g26"
+         inkscape:label="0" />
+      <g
+         id="g58"
+         inkscape:label="1. Engrave (Raster)">
+        <path
+           id="path28"
+           style="fill:none;stroke:#000000"
+           d="M 18.897638,1092.2835 H 94.488189"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path30"
+           style="fill:none;stroke:#000000"
+           d="m 94.488189,1092.2835 v -37.7953"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path32"
+           style="fill:none;stroke:#000000"
+           d="M 94.488189,1054.4882 H 18.897638"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path34"
+           style="fill:none;stroke:#000000"
+           d="m 18.897638,1054.4882 v 37.7953"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path36"
+           style="fill:none;stroke:#000000"
+           d="M 22.677165,1063.937 H 52.913386"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text40"
+           y="1065.4489"
+           x="56.692913"
+           style="font-size:3px;font-family:Arial;fill:#000000">
+          <tspan
+             id="tspan38"
+             sodipodi:role="line"
+             x="56.692913"
+             y="1065.4489">1. Engrave (Raster)</tspan>
+        </text>
+        <text
+           id="text44"
+           y="1074.8976"
+           x="56.692913"
+           style="font-size:3px;font-family:Arial;fill:#000000">
+          <tspan
+             id="tspan42"
+             sodipodi:role="line"
+             x="56.692913"
+             y="1074.8976">2. Mark (Vector)</tspan>
+        </text>
+        <text
+           id="text48"
+           y="1084.3464"
+           x="56.692913"
+           style="font-size:3px;font-family:Arial;fill:#000000">
+          <tspan
+             id="tspan46"
+             sodipodi:role="line"
+             x="56.692913"
+             y="1084.3464">3. Cut (Vector)</tspan>
+        </text>
+        <text
+           id="text52"
+           y="1101.8674"
+           x="49.133858"
+           style="font-size:3px;font-family:Arial;fill:#000000">
+          <tspan
+             id="tspan50"
+             sodipodi:role="line"
+             x="49.133858"
+             y="1101.8674">Times New Roman - Engraved</tspan>
+        </text>
+        <text
+           id="text56"
+           y="1101.8674"
+           x="11.338583"
+           style="font-size:3px;font-family:Arial;fill:#000000">
+          <tspan
+             id="tspan54"
+             sodipodi:role="line"
+             x="11.338583"
+             y="1101.8674">Arial - Engraved</tspan>
+        </text>
+      </g>
+      <g
+         id="g86"
+         inkscape:label="4. NP Layout &amp; Text">
+        <path
+           id="path60"
+           style="fill:none;stroke:#00ff00"
+           d="m 132.28346,1103.622 h 75.59056"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path62"
+           style="fill:none;stroke:#00ff00"
+           d="m 207.87402,1103.622 v -37.7952"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path64"
+           style="fill:none;stroke:#00ff00"
+           d="M 207.87402,1065.8268 H 132.28346"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path66"
+           style="fill:none;stroke:#00ff00"
+           d="m 132.28346,1065.8268 v 37.7952"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text70"
+           y="1059.7795"
+           x="170.10596"
+           style="font-size:3px;font-family:Arial;fill:#00ff00">
+          <tspan
+             id="tspan68"
+             sodipodi:role="line"
+             x="170.10596"
+             y="1059.7795">4. NP Layout &amp; Text</tspan>
+        </text>
+        <text
+           id="text78"
+           y="1075.3451"
+           x="134.25827"
+           style="font-size:3px;font-family:Arial;fill:#00ff00">
+          <tspan
+             id="tspan72"
+             sodipodi:role="line"
+             x="134.25827"
+             y="1075.3451">Items on this layer are for information</tspan>
+          <tspan
+             id="tspan74"
+             sodipodi:role="line"
+             x="134.25827"
+             y="1079.0951">and layout only and are not intended</tspan>
+          <tspan
+             id="tspan76"
+             sodipodi:role="line"
+             x="134.25827"
+             y="1082.8451">to be printed on the end product.</tspan>
+        </text>
+        <text
+           id="text84"
+           y="1035.5906"
+           x="-15.11811"
+           style="font-size:3px;font-family:Arial;fill:#00ff00">
+          <tspan
+             id="tspan80"
+             sodipodi:role="line"
+             x="-15.11811"
+             y="1035.5906">\fArial|b0|i0|c0|p0;5. NP Material Boundary</tspan>
+          <tspan
+             id="tspan82"
+             sodipodi:role="line"
+             x="-15.11811"
+             y="1039.3406">The edge and corner alignment marker(s) of the actual piece of material to be cut.</tspan>
+        </text>
+      </g>
+      <g
+         id="g88"
+         inkscape:label="Defpoints" />
+      <g
+         id="g106"
+         inkscape:label="2. Mark (Vector)">
+        <text
+           id="text92"
+           y="1052.2205"
+           x="62.561764"
+           style="font-size:3px;font-family:Arial;fill:#0000ff">
+          <tspan
+             id="tspan90"
+             sodipodi:role="line"
+             x="62.561764"
+             y="1052.2205">Printing Layers</tspan>
+        </text>
+        <path
+           id="path94"
+           style="fill:none;stroke:#0000ff"
+           d="M 22.677165,1073.3858 H 52.913386"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path96"
+           style="fill:none;stroke:#0000ff"
+           d="m 113.38583,1050.7087 v 68.0315"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text100"
+           y="1109.4265"
+           x="49.133858"
+           style="font-size:3px;font-family:Arial;fill:#0000ff">
+          <tspan
+             id="tspan98"
+             sodipodi:role="line"
+             x="49.133858"
+             y="1109.4265">Times New Roman - Marked</tspan>
+        </text>
+        <text
+           id="text104"
+           y="1109.4265"
+           x="11.338583"
+           style="font-size:3px;font-family:Arial;fill:#0000ff">
+          <tspan
+             id="tspan102"
+             sodipodi:role="line"
+             x="11.338583"
+             y="1109.4265">Arial - Marked</tspan>
+        </text>
+      </g>
+      <g
+         id="g146"
+         inkscape:label="3. Cut (Vector)">
+        <path
+           id="path108"
+           style="fill:none;stroke:#ff0000"
+           d="M 22.677165,1082.8346 H 52.913386"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path110"
+           style="fill:none;stroke:#ff0000"
+           d="M 3.779528,1122.5197 H 109.6063"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path112"
+           style="fill:none;stroke:#ff0000"
+           d="M 117.16535,1122.5197 H 222.99213"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path114"
+           style="fill:none;stroke:#ff0000"
+           d="m 226.77165,1118.7402 v -68.0315"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path116"
+           style="fill:none;stroke:#ff0000"
+           d="M 222.99213,1046.9291 H 117.16535"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path118"
+           style="fill:none;stroke:#ff0000"
+           d="M 109.6063,1046.9291 H 3.779528"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path120"
+           style="fill:none;stroke:#ff0000"
+           d="m 0,1050.7087 v 68.0315"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path122"
+           style="fill:none;stroke:#ff0000"
+           d="M 3.779528,1046.9291 A 3.779528,3.779528 0 0 0 0,1050.7087"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path124"
+           style="fill:none;stroke:#ff0000"
+           d="m 226.77165,1050.7087 a 3.779528,3.779528 0 0 0 -3.77952,-3.7796"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path126"
+           style="fill:none;stroke:#ff0000"
+           d="m 222.99213,1122.5197 a 3.779528,3.779528 0 0 0 3.77952,-3.7795"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path128"
+           style="fill:none;stroke:#ff0000"
+           d="m 0,1118.7402 a 3.779528,3.779528 0 0 0 3.779528,3.7795"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path130"
+           style="fill:none;stroke:#ff0000"
+           d="m 113.38583,1050.7087 a 3.779528,3.779528 0 0 0 -3.77953,-3.7796"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path132"
+           style="fill:none;stroke:#ff0000"
+           d="m 117.16535,1046.9291 a 3.779528,3.779528 0 0 0 -3.77952,3.7796"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path134"
+           style="fill:none;stroke:#ff0000"
+           d="m 109.6063,1122.5197 a 3.779528,3.779528 0 0 0 3.77953,-3.7795"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path136"
+           style="fill:none;stroke:#ff0000"
+           d="m 113.38583,1118.7402 a 3.779528,3.779528 0 0 0 3.77952,3.7795"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text140"
+           y="1116.9856"
+           x="49.133858"
+           style="font-size:3px;font-family:Arial;fill:#ff0000">
+          <tspan
+             id="tspan138"
+             sodipodi:role="line"
+             x="49.133858"
+             y="1116.9856">Times New Roman - Cut</tspan>
+        </text>
+        <text
+           id="text144"
+           y="1116.9856"
+           x="11.338583"
+           style="font-size:3px;font-family:Arial;fill:#ff0000">
+          <tspan
+             id="tspan142"
+             sodipodi:role="line"
+             x="11.338583"
+             y="1116.9856">Arial - Cut</tspan>
+        </text>
+      </g>
+      <g
+         id="g158"
+         inkscape:label="5. NP Material Boundary">
+        <path
+           id="path148"
+           style="fill:none;stroke:#000000"
+           d="m -18.897638,1028.0315 v 113.3858"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path150"
+           style="fill:none;stroke:#000000"
+           d="m 245.66929,1028.0315 v 113.3858"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path152"
+           style="fill:none;stroke:#000000"
+           d="M -18.897638,1028.0315 H 245.66929"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path154"
+           style="fill:none;stroke:#000000"
+           d="M -18.897638,1141.4173 H 245.66929"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path156"
+           style="fill:none;stroke:#000000"
+           d="m 18.897638,1028.0315 v 0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

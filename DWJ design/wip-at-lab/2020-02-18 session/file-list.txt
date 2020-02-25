@@ -1,0 +1,22 @@
+ULSTest.cdr
+ULSTest.dxf
+x-all-P-layers-in-use.dxf
+'x-all-layers-in-use [R21].dxf'
+'x-all-layers-in-use [R24].dxf'
+'x-all-layers-in-use [R27].dxf'
+'x-all-layers-in-use [R32].dxf'
+x-all-layers-in-use-with-layers-object.dxf
+x-all-layers-in-use.dxf
+x-circle-cut-NP-layers.dxf
+x-circle-cut-as-block.dxf
+x-circle-cut.dxf
+x-circle-cut.svg
+x-circle-engrave.dxf
+x-circle-mark.dxf
+x-cut-text-copied-from-ULSTest-no-layer-object.dxf
+x-cut-text-copied-from-ULSTest.dxf
+x-cutter-layers-block-no-text.dxf
+x-cutter-layers-block-with-text.dxf
+x-new-from-template.dxf
+x-simple-cut-text.dxf
+x-simple-cut-text.svg
