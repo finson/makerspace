@@ -1,5 +1,5 @@
 
- Directory of C:\Windows\Fonts
+DWJ font names
 
 8514fix.fon
 8514fixe.fon
